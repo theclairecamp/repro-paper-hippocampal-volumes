@@ -5,3 +5,7 @@
 	path = derivatives
 	url = ./derivatives
 	datalad-id = e256a4f5-3460-4f76-9f2a-c864aee3ebf9
+[submodule "code"]
+	path = code
+	url = ./code
+	datalad-id = 7052de73-ac4d-458a-90d0-ad03349662a4
